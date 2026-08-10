@@ -1,0 +1,8 @@
+{
+  "name": "Nguyễn Phi Hoài Nam - Ứng dụng cổng hội viên FitGym Mobile ",
+  "description": "Ứng dụng cổng hội viên FitGym Mobile gồm: Trang chủ, Gói tập, ChatbotAI, Nhân viên hỗ trợ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
